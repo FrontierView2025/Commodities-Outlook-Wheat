@@ -1,0 +1,18 @@
+title: Commodities Outlook: Cocoa
+description: The new FV data tool explores the global cocoa market
+theme: minima
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://FrontierView2025.github.io" # the base hostname & protocol for your site
+author: FrontierView2025
+
+# Optional: Add markdown configuration, plugins, or exclude files
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
